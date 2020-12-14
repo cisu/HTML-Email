@@ -1,0 +1,17 @@
+Setting a COCTYPE
+3 different ways to do
+
+None 
+<html>
+
+
+XHTML 1.0 Transitianal
+<!DOCTYPE html PUBLIC "-//W3c//DTD XHTML 1.0
+    Transitianal//EN"
+    "http://www.w3.org/TR/xhtml/DTD/xhtmll-transitianal.dtd">
+    <html xhlns="http://www.we.org/1999/xhtml">
+
+
+HTML 4.01
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
