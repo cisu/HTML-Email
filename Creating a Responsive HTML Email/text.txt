@@ -15,3 +15,19 @@ XHTML 1.0 Transitianal
 HTML 4.01
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+
+
+
+Create an amimatedgitft on email
+
+Frame 1 : Contains all of the original artwork, in case the email clinet doesn't support animated GIF files
+
+Last Frame: Contains all of the original art work, in case the email client doesn't support looping animated GIF files.
+
+
+
+-------------------------------
+Check if your code is validated
+-------------------------------
+
+https://validator.w3.org/
